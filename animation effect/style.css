@@ -1,0 +1,42 @@
+
+body{
+    background-color: white;
+    
+}
+
+.dot{
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+    background-color: #eb0e0e;
+    border-radius: 50%;
+    display: inline-block;
+    border-radius: 50%; 
+    animation: pulse 2s infinite;  */
+
+     
+}
+.dot2{
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+    display:;
+    background-color: #f6f634;
+    border-radius: 50%;
+    /* animation: pulse 2s infinite;  */
+
+     
+}
+
+@keyframes pulse {
+
+0%,100%{
+    transform: scale(0.5);
+}
+
+50%{
+    transform: scale(1);
+}
+
+
+} 

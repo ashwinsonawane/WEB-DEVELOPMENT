@@ -1,0 +1,20 @@
+.box1,.box2{
+  height: 100px;
+  width: 100px;
+}
+
+
+.box1{
+ margin: 30px;
+ background-color:rgb(239, 239, 140);
+
+}
+
+.box2{
+    padding: 30px ;
+    background-color: rgb(44, 44, 102);
+}
+.wrapper{
+
+    background-color: rgb(169, 200, 237);
+}

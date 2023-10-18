@@ -1,0 +1,23 @@
+table,tr,th,td{
+
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+    font-family:  monospace;
+    text-transform: uppercase;
+
+}
+
+.tablefoot{
+    background-color: burlywood;
+}
+
+th{
+    background-color: yellow;
+    color: black;
+    
+}
+td{
+    background-color: red;
+}

@@ -1,0 +1,16 @@
+
+h1{
+    background-color: chocolate;
+}
+
+.background{
+
+    background-image: url(./photo-1493612276216-ee3925520721.jpeg);
+    background-repeat:no-repeat;
+    background-size: 400px;
+    background-attachment: fixed;
+    height: 1000px;
+    width: 1000px;
+    background-position: center;
+    
+}
